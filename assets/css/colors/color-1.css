@@ -1,0 +1,3 @@
+:root{
+    --first-color: hsl(var(--first-hue), 54%, 48%);
+}
